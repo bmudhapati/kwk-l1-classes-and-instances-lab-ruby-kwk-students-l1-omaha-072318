@@ -9,4 +9,4 @@ end
 puts Dog.name
 fido = Dog.new("fido")
 snoopy = Dog.new("snoopy")
-lassie = Dog.new("Lassie")lea
+lassie = Dog.new("Lassie")
